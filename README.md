@@ -9,4 +9,4 @@ $ gcc -Wall -pedantic  `pkg-config --cflags gtk+-3.0` -o hdrstst hdrstst.c `pkg-
 
 ### Screenshot
 
-[[https://raw.githubusercontent.com/vmxdev/hdrstst/master/screenshot1.png|alt=screenshot]]
+![screenshot](https://raw.githubusercontent.com/vmxdev/hdrstst/master/screenshot1.png)
